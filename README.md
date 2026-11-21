@@ -5,10 +5,10 @@ Follow the steps below to set up and explore the project.
 ### 1. Clone the Repository
 
 Clone the repository to your local machine:
-
+''' bash
 git clone https://github.com/amang03/Customer-Behavior-Data-Analysis.git
 cd Customer-Behavior-Data-Analysis
-
+'''
 ### 2. Run the Jupyter Notebook
 
 Open the `.ipynb` notebook to perform the initial data processing and preparation.
